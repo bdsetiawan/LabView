@@ -47,5 +47,3 @@ Contributions are welcome! You can help by:
 * Feel free to add a “Getting Started” VI or index README to guide newcomers.
 
 ---
-
-If you like, I can also generate a fully formatted `README.md` (with badges, table of contents) that you can drop into the repo. Would you like me to do that?
